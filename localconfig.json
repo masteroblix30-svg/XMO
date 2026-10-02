@@ -1,0 +1,5 @@
+{
+  "serverLoginUrl": "https://clientbp.ggbluepanda.com/",
+  "resetGuest": true,
+  "sessionTtlMs": 2700000
+}
